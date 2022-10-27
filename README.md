@@ -3,7 +3,7 @@
 
 I am Yun :relaxed:
 
-- 🌱 I’m currently learning front-end web development with MigraCode Barcelona :sparkles:
+- 🌱 I’m currently learning full stack web development with MigraCode Barcelona :sparkles:
 - :rocket: I have learned coding on my own and build web applications with ```Python/Django```
 - :purple_heart: I am a persistant learner and constantly looking for new challenges
 - 👯 I’m looking to collaborate on web projects and a first web developer job
