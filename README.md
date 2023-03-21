@@ -3,7 +3,8 @@
 
 I am Yun :relaxed:
 
-- 🌱 I’m currently learning full stack web development with MigraCode Barcelona :sparkles:
+- 🌱 I graduated from the full stack web development course with MigraCode Barcelona :sparkles:
+- I develop modern full stack web applications with JavaScript ES6, React and so on.
 - :rocket: I have learned coding on my own and build web applications with ```Python/Django```
 - :purple_heart: I am a persistant learner and constantly looking for new challenges
 - 👯 I’m looking to collaborate on web projects and a first web developer job
