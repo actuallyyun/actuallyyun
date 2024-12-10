@@ -1,7 +1,7 @@
 
 ## Hi 👋🏼 I am Yun. 
 
-I love coding 👩🏻‍💻 , writing and rock climbing 🧗🏻‍♀️. Communication is my jam. 
+I love coding 👩🏻‍💻 , writing and rock climbing 🧗🏻‍♀️. 
 
 # Technologies & tools I use 
 
